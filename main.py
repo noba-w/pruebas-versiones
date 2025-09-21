@@ -1,2 +1,1 @@
-
-    print("Por favor, introduce un número entero válido.")
+print("Por favor, introduce un número entero válido.")
